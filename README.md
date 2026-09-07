@@ -1,6 +1,6 @@
 # image_processing 
 ## Intro to Image Analysis
-Repo created during the Intro to IA workshop in Cardiff
+Repo created during the Intro to IA workshop in Cardiff, Bobiac in Boston and AMBIA 2026: Summer School on Biomedical Image Analysis in Brno
 
 ## Image Processing
 
